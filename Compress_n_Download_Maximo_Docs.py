@@ -1,3 +1,4 @@
+#Automation Script to Select Multiple attachments, and download as zip file.
 from psdi.util import MXApplicationException;
 from java.io import FileOutputStream;
 from java.io import FileInputStream;
@@ -47,3 +48,4 @@ if launchPoint=='<ActionName>':
         print ("Maximo Error : " + str(e));
     except Exception as e :
         print ("Error : " + str(e));
+
