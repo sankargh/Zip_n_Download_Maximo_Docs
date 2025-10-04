@@ -1,5 +1,7 @@
 Maximo attachments can be downloaded one at a time.
+
 There is no out of the Box option to select multiple attachments and download at once.
+
 Here are the steps to achieve this via cusom dialog and automation sctipt.
 
 Add custom dialog:
