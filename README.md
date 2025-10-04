@@ -19,4 +19,4 @@ Add a 'Download' custom action button at the footer of dialog.
 
 Automation Script:
 ------------------
-Create an action launch point for the button and write below code
+Create an action launch point for the button and write the attached code
